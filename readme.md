@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./assets/ignite.png">
-</div>
-
 <h1 align="center"> Ignite ReactJS 🚀 RocketSeat </h1>
 
 <h2 align="center"> Componentizando a aplicação </h2>
@@ -9,13 +5,9 @@
 ## 🚀 Sobre o Projeto
 O projeto consiste em uma aplicação de listagem de filmes, que são consumidos de uma fake api. O foco deste desafio foi realizar uma componentização da aplicação, pois a aplicação estava toda no arquivo App.tsx. O objetivo foi dividir a aplicação em dois componentes: a SideBar e a Content, utilizando o código presente no App.tsx, sem alterar as suas funcionalidades.   
 
-## Imagens do Projeto
+## Video do Projeto
 
-<div align="center">
-  <video>
-    <source src="./assets/demo.mp4" type="video/mp4">
-  </video>
-</div>
+https://user-images.githubusercontent.com/78037936/134269757-0ec3c69d-6180-4556-b9cf-648b6e7a2377.mp4
 
 ## 🧰 Tecnologias Utilizadas
 * VSCode ( IDE )
